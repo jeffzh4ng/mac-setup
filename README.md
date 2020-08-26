@@ -44,7 +44,7 @@ Personal setup instructions for new machines
 - brew cask install flux
     - Set CMD + space to launch alfred
 - brew cask install vscode 
-    - Fira Font
+    - sync settings
 - brew install nvm
     - nvm install stable
 - brew install yarn

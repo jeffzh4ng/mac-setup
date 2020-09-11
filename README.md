@@ -41,6 +41,9 @@ Personal setup instructions for new machines
 - brew cask install google-chrome
 - brew cask install alfred
 - brew cask install spotify
+- brew cask install tiles
+- brew cask install rescuetime
+- brew cask install zoom
 - brew cask install flux
     - Set CMD + space to launch alfred
 - brew cask install vscode 
@@ -53,12 +56,6 @@ Personal setup instructions for new machines
 - yarn global add typescript
 - yarn global add trash-cli
 - curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-
-Docker
-Flux
-Stretchly
-Zoom
 
 # Load zsh-syntax-highlighting; should be last.	
 	source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null

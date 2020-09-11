@@ -51,6 +51,7 @@ Personal setup instructions for new machines
 - brew install postgres
     - brew services start postgresql
 - yarn global add typescript
+- yarn global add trash-cli
 - curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 

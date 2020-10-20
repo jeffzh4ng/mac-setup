@@ -53,6 +53,7 @@ Personal setup instructions for new machines
 - brew install yarn
 - brew install postgres
     - brew services start postgresql
+- brew install loom
 - yarn global add typescript
 - yarn global add trash-cli
 - curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh

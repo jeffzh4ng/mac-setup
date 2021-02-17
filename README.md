@@ -57,6 +57,7 @@ Personal setup instructions for new machines
 - yarn global add typescript
 - yarn global add trash-cli
 - curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+- npm install -g tldr
 
 # Load zsh-syntax-highlighting; should be last.	
 	source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
